@@ -25,5 +25,5 @@ Enter the branch name: development
 Ether the file name with path: /etc/bin/abc.py
 ```
 ```
-Enter the start line number and end line number ( separated by , eg. 10,15 ) of snippet of code: 10,15i# first-project
+Enter the start line number and end line number ( separated by , eg. 10,15 ) of snippet of code: 10,15
 ```
