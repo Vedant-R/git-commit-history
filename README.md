@@ -18,9 +18,12 @@ This will ask you to input 3 parameters:
 - Enter the file name with path: ( you need to specify the path of the file you wish to find the commits for For eg. /etc/bin/abc.py)
 - Enter the start line number and end line number (separated by , eg. 10,15) of snippet of code: ( you need to specify line number range For eg. 10,15)
 
-    Enter the branch name: development
-
-    Ether the file name with path: /etc/bin/abc.py
-
-    Enter the start line number and end line number ( separated by , eg. 10,15 ) of snippet of code: 10,15i# first-project
-
+```    
+Enter the branch name: development
+```
+```
+Ether the file name with path: /etc/bin/abc.py
+```
+```
+Enter the start line number and end line number ( separated by , eg. 10,15 ) of snippet of code: 10,15i# first-project
+```
